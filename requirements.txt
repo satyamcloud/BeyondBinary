@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+lxml
+trafilatura
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+seaborn
+torch
+transformers
