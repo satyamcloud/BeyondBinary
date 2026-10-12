@@ -8,6 +8,8 @@ The dataset has **568 claims**: the original social media post embedded in a fac
 Misleading, Missing Context, Hard to Categorise, Partially True and True verdicts). Sources: Alt News (512 rows) and
 Fact Crescendo (56 rows, minority verdicts only).
 
+**Dataset archive:** the dataset is also archived on Zenodo, DOI [10.5281/zenodo.23300178](https://doi.org/10.5281/zenodo.23300178). In this released version, user `@handles` in the `text` column are replaced with `@user` (342 mentions in 134 rows). The models in the paper were trained on the original, unmodified text, so results on this file may differ slightly. Labels, sources and all other fields are unchanged. See `DATA_LICENSE.md` for terms.
+
 ## Contents
 
 | Path | What it is |
